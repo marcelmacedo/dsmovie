@@ -10,7 +10,6 @@ function Form() {
         score: 4.5
     };
 
-
     return (
         <div className="dsmovie-form-container">
             <h1>Pagina de Formulario</h1>
